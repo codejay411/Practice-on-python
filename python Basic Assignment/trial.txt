@@ -1,0 +1,4 @@
+2021-12-28 11:53:40,694 - Start - DEBUG
+2021-12-28 11:53:40,695 - End - DEBUG
+2021-12-28 11:53:41,406 - jay send a message - DEBUG
+2021-12-28 11:53:41,694 - This is a test message. - DEBUG
